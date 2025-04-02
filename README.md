@@ -1,3 +1,10 @@
+<div>
+  <p align="center">
+    <img src="https://github.com/mmeest/Playtech/blob/main/Play.png" height="128px">
+  </p>
+</div>
+
+
 # JAVA tests for Playtech
 
 ## Requirements:
