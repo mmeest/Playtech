@@ -1,0 +1,12 @@
+Browser window with: 1180
+Browser window height: 495
+1. X-position: 628 Y-position: 477
+2. X-position: 499 Y-position: 270
+3. X-position: 724 Y-position: 18
+4. X-position: 617 Y-position: 195
+5. X-position: 730 Y-position: 196
+6. X-position: 817 Y-position: 490
+7. X-position: 933 Y-position: 292
+8. X-position: 51 Y-position: 299
+9. X-position: 610 Y-position: 317
+10. X-position: 200 Y-position: 284
